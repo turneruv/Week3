@@ -3,6 +3,7 @@ package student;
 /**for pull
  *this is commment added
  *Comment added via gitHub at 02/05/21 @9:41 to fetch+merge
+ *This is to learn pull 
  * @author Ruvon
  */
 public class Student {
